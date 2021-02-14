@@ -1,6 +1,6 @@
 ## **(wanable) Android and Web developer**
 ### **Technologies:**
-##  **Java - Android**
+##  **Java - Android - Firebase**
 ## **Python - Tkinter - Selenium**
 ##  **HTML-CSS-JS**
 ##  **PHP**
