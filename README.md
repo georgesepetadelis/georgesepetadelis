@@ -1,5 +1,5 @@
 ### **(wanable) Android and Web developer**
-**Technologies: **
+** Technologies: **
 ##  Java - Android 
 ##  HTML-CSS-JS
 ##  PHP
