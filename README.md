@@ -2,9 +2,9 @@
 ### **Technologies:**
 ##  **Java - Android - Firebase**
 ## **Python - Tkinter - Selenium**
-##  **HTML-CSS-JS**
+##  **HTML - CSS - JS**
 ##  **PHP**
-##  **SQL-MySQL**
+##  **SQL - MySQL**
 <!--
 **georgesepetadelis/georgesepetadelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
