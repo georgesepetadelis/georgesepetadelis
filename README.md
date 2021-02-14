@@ -1,9 +1,9 @@
-### **(wanable) Android and Web developer**
-** Technologies: **
-##  Java - Android 
-##  HTML-CSS-JS
-##  PHP
-##  SQL-MySQL
+## **(wanable) Android and Web developer**
+### ** Technologies: **
+##  ** Java - Android **
+##  ** HTML-CSS-JS **
+##  ** PHP **
+##  ** SQL-MySQL **
 <!--
 **georgesepetadelis/georgesepetadelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
