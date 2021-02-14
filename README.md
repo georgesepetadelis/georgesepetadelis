@@ -3,7 +3,7 @@
 ##  ** Java - Android **
 ##  ** HTML-CSS-JS **
 ##  ** PHP **
-##  ** SQL-MySQL **
+##  **SQL-MySQL**
 <!--
 **georgesepetadelis/georgesepetadelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
