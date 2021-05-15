@@ -1,4 +1,4 @@
-## **(wanable) Android and Web developer**
+## **Android and Web developer**
 ### **Technologies:**
 -  **Java - Android - Firebase**
 - **Python - Tkinter - Selenium**
