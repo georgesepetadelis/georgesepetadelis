@@ -1,4 +1,4 @@
-## **Android and Web developer**
+## **Mobile and Web developer**
 ### **Technologies:**
 -  **Java & Kotlin - Android - Firebase**
 - **Python - Tkinter - Selenium - Discord.py**
