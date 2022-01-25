@@ -1,5 +1,5 @@
 ## **Mobile and Web developer**
-### **Technologies:**
+### **Technologies that i know:**
 -  **Java & Kotlin - Android - Firebase**
 - **Python - Tkinter - Selenium - Discord.py**
 -  **HTML - CSS - JS**
