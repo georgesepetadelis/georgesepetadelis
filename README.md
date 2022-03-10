@@ -1,9 +1,9 @@
 ## **Mobile/Game developer**
 ### **Languages/Frameworks that i know:**
 -  **Java & Kotlin - Android - Firebase**
--  **SwiftUI**
+-  **Swift - SwiftUI**
 -  **Unreal Engine - C++**
--  **Unity**
+-  **Unity - C# scripting**
 - **Python - Tkinter - Selenium - Discord.py**
 -  **HTML - CSS - JS**
 -  **PHP**
