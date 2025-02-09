@@ -27,4 +27,3 @@ I'm a passionate developer with a strong focus on mobile and game development. I
 [My Website](https://sepetadelis.com)
 - Email: giorgossepetadelis11@gmail.com
 - LinkedIn: [George Sepetadelis](https://www.linkedin.com/in/georgesepetadelis)
-- GitHub: [georgesepetadelis](https://github.com/georgesepetadelis)
