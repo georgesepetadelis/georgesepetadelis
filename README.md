@@ -18,9 +18,22 @@ I'm a software engineer who builds across mobile, web, and games. I work hands-o
 - **Web platforms** in React/Next.js and Angular on top of .NET APIs and cloud (Azure, Google Cloud)
 - **Games** in Unreal Engine 5 and C++, targeting both mobile and desktop
 
+### Security & Compliance
+
+Most of the platforms I work on handle sensitive data for K-12 schools, healthcare, and assessment workflows, so security is built in from day one rather than bolted on later.
+
+[![HIPAA](https://img.shields.io/badge/HIPAA-aligned-0a7d2c?style=flat-square&logoColor=white)](https://www.hhs.gov/hipaa/index.html)
+[![FERPA](https://img.shields.io/badge/FERPA-aligned-1f6feb?style=flat-square&logoColor=white)](https://studentprivacy.ed.gov/)
+[![NIST CSF 2.0](https://img.shields.io/badge/NIST_CSF-2.0-512BD4?style=flat-square&logoColor=white)](https://www.nist.gov/cyberframework)
+
+- **HIPAA-aligned** handling of protected health information for behavioral and mental-health assessment platforms.
+- **FERPA-aligned** student data flows, role-based access, and parent/guardian consent workflows for K-12 products.
+- Architecture, identity, and operational controls mapped to **NIST CSF 2.0** (Govern, Identify, Protect, Detect, Respond, Recover).
+- Hands-on practices I apply: least-privilege RBAC, tenant isolation, encryption in transit and at rest, secret hygiene, audit trails, dependency review, and hardened input validation on every public endpoint.
+
 ### Selected Companies I've Worked With
 
-- **[Edumetrisis LLC](https://edumetrisis.com)** · K-12 behavioral, SEL, and wellness assessment platforms (BIMAS-3, BASI, CAWS, K-SEP, Mathesis AI)
+- **[Edumetrisis LLC](https://edumetrisis.com)** · K-12 behavioral, SEL, and wellness assessment platforms (BIMAS-3, BASI, CAWS, K-SEP, Mathesis AI) · built to HIPAA, FERPA, and NIST CSF 2.0
 - **[Triaena Business Center](https://triaena.gr)** · Event management platform, member portal, and international conference websites (ECF25, MWOConf)
 - **[PSTA](https://psta.net.au)** · iOS/Android apps for goal achievement and mental health first aid (iGrow Goals, iGrow MHFA)
 
@@ -42,8 +55,6 @@ I'm a software engineer who builds across mobile, web, and games. I work hands-o
 
 [![Followers](https://img.shields.io/github/followers/georgesepetadelis?style=for-the-badge&logo=github&color=0a0a10&labelColor=24292f)](https://github.com/georgesepetadelis?tab=followers)
 [![Stars](https://img.shields.io/github/stars/georgesepetadelis?style=for-the-badge&logo=github&color=0a0a10&labelColor=24292f&affiliations=OWNER)](https://github.com/georgesepetadelis?tab=repositories)
-[![SepeTech repo](https://img.shields.io/github/stars/SepeTech-LP/sepetech?style=for-the-badge&logo=github&label=SepeTech&color=7bb8ff&labelColor=24292f)](https://github.com/SepeTech-LP/sepetech)
-[![Last commit](https://img.shields.io/github/last-commit/SepeTech-LP/sepetech?style=for-the-badge&logo=github&label=Last%20commit&color=22c55e&labelColor=24292f)](https://github.com/SepeTech-LP/sepetech/commits/main)
 
 ### Contact
 
