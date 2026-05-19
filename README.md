@@ -1,6 +1,7 @@
 ## George Sepetadelis
 
-**CEO & Founder, [SepeTech L.P.](https://sepetech.com)** · Athens, Greece
+**Software Engineer** · Mobile, Web & Game Developer · Athens, Greece
+**CEO & Founder, [SepeTech L.P.](https://sepetech.com)**
 
 ![Profile views](https://komarev.com/ghpvc/?username=georgesepetadelis&style=flat-square&color=blue)
 [![Website](https://img.shields.io/badge/Website-sepetech.com-0a0a10?style=flat-square&logo=safari&logoColor=white)](https://sepetech.com)
@@ -9,7 +10,13 @@
 
 ### About
 
-I lead [SepeTech L.P.](https://sepetech.com), a Greek software house building mobile apps, web platforms, and games with Unreal Engine 5. My focus is shipping production-grade software end to end, from product scope and architecture through release and post-launch iteration.
+I'm a software engineer who builds across mobile, web, and games. I work hands-on every day, from architecture and implementation through release and iteration, across Flutter, React, Angular, .NET, and Unreal Engine 5. I run [SepeTech L.P.](https://sepetech.com), a Greek software house that ships production-grade software for clients in Greece and abroad.
+
+### What I Build
+
+- **Mobile apps** in Flutter (iOS + Android), SwiftUI, and native Android (Java)
+- **Web platforms** in React/Next.js and Angular on top of .NET APIs and cloud (Azure, Google Cloud)
+- **Games** in Unreal Engine 5 and C++, targeting both mobile and desktop
 
 ### Selected Companies I've Worked With
 
