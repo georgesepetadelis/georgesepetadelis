@@ -15,7 +15,7 @@ I lead [SepeTech L.P.](https://sepetech.com), a Greek software house building mo
 
 - **[Edumetrisis LLC](https://edumetrisis.com)** · K-12 behavioral, SEL, and wellness assessment platforms (BIMAS-3, BASI, CAWS, K-SEP, Mathesis AI)
 - **[Triaena Business Center](https://triaena.gr)** · Event management platform, member portal, and international conference websites (ECF25, MWOConf)
-- **PSTA** · iOS/Android apps for goal achievement and mental health first aid (iGrow Goals, iGrow MHFA)
+- **[PSTA](https://psta.net.au)** · iOS/Android apps for goal achievement and mental health first aid (iGrow Goals, iGrow MHFA)
 
 ### Tech Stack
 
@@ -30,14 +30,13 @@ I lead [SepeTech L.P.](https://sepetech.com), a Greek software house building mo
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### GitHub
 
-[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgesepetadelis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/georgesepetadelis)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgesepetadelis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/georgesepetadelis)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=georgesepetadelis&theme=tokyonight&hide_border=true)](https://github.com/georgesepetadelis)
+[![Followers](https://img.shields.io/github/followers/georgesepetadelis?style=for-the-badge&logo=github&color=0a0a10&labelColor=24292f)](https://github.com/georgesepetadelis?tab=followers)
+[![Stars](https://img.shields.io/github/stars/georgesepetadelis?style=for-the-badge&logo=github&color=0a0a10&labelColor=24292f&affiliations=OWNER)](https://github.com/georgesepetadelis?tab=repositories)
+[![SepeTech repo](https://img.shields.io/github/stars/SepeTech-LP/sepetech?style=for-the-badge&logo=github&label=SepeTech&color=7bb8ff&labelColor=24292f)](https://github.com/SepeTech-LP/sepetech)
+[![Last commit](https://img.shields.io/github/last-commit/SepeTech-LP/sepetech?style=for-the-badge&logo=github&label=Last%20commit&color=22c55e&labelColor=24292f)](https://github.com/SepeTech-LP/sepetech/commits/main)
 
 ### Contact
 
