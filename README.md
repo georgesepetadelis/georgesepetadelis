@@ -1,29 +1,28 @@
-# Hi there 👋, I'm George Sepetadelis
+## George Sepetadelis
 
-## **Mobile/Game Developer**
+**CEO & Founder, [SepeTech L.P.](https://sepetech.com)** — Athens, Greece
 
-I'm a passionate developer with a strong focus on mobile and game development. I love exploring new technologies and continuously improving my skills. Here's a bit about me:
+---
 
-### **🔧 Languages/Frameworks that I have worked with:**
-- **Mobile development with Flutter and Firebase services**
-- **Full-stack web development with ASP.net and Angular**
-- **Native Android development with Java**
-- **Game development with Unreal Engine**
-- **iOS mobile development with SwiftUI**
-- **Python - Tkinter - Selenium - Discord.py**
+### About
 
-### **🔭 What I'm currently working on:**
-- Developing mobile applications using Flutter and Firebase.
-- Exploring advanced game development techniques with Unreal Engine.
-- Building full-stack applications with ASP.net and React.
+I run [SepeTech L.P.](https://sepetech.com), a Greek software house building mobile apps, web platforms, and games with [Unreal Engine 5](https://www.unrealengine.com/). My focus is on shipping production-grade software end-to-end — from product scope and architecture through release and post-launch iteration.
 
-### **💬 Ask me about:**
-- Mobile app development.
-- Game development.
-- Full-stack web development.
-- Any of the languages/frameworks mentioned above.
+### What I Work With
 
-### **📫 How to reach me:**
-[My Website](https://sepetadelis.com)
-- Email: giorgossepetadelis11@gmail.com
-- LinkedIn: [George Sepetadelis](https://www.linkedin.com/in/georgesepetadelis)
+| Mobile         | Web                  | Games           | Cloud         |
+| -------------- | -------------------- | --------------- | ------------- |
+| Flutter        | React                | Unreal Engine 5 | Azure         |
+| SwiftUI (iOS)  | Angular              | C++             | Firebase      |
+| Java (Android) | .NET                 |                 | Google Cloud  |
+
+### Currently
+
+- Leading delivery at SepeTech on mobile, web, and Unreal Engine 5 projects
+- Open to discussing custom software work, technical consulting, and partnerships
+
+### Contact
+
+- Website — [sepetech.com](https://sepetech.com)
+- Email — info@sepetech.com
+- LinkedIn — [George Sepetadelis](https://www.linkedin.com/in/georgesepetadelis)
